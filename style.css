@@ -66,7 +66,7 @@ table,td,th{
     padding:10px;
    
 }
-td{
+td,tbody,thead{
     color:#FFFFFf;
     font-family: Inter;
     border:none;
@@ -97,4 +97,7 @@ td{
 #returned{
     visibility: hidden;
 
+}
+.red{
+    color:red;
 }
